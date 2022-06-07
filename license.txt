@@ -1,0 +1,11 @@
+Model Information:
+* title:	LuVille Santa's Shop
+* source:	https://sketchfab.com/3d-models/luville-santas-shop-cb7cb8681daf4e22b78239bab142b01c
+* author:	Asgarde (https://sketchfab.com/Asgarde)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LuVille Santa's Shop" (https://sketchfab.com/3d-models/luville-santas-shop-cb7cb8681daf4e22b78239bab142b01c) by Asgarde (https://sketchfab.com/Asgarde) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
